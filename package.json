@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THAMITHA/Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THAMITHA/Testing/issues"
+  },
+  "homepage": "https://github.com/THAMITHA/Testing#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
